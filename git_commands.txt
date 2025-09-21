@@ -1,0 +1,52 @@
+git init
+git status
+git commit
+git commit -m"Added Successfully"
+git config --global user.name 
+git status
+git commit -m "Added sucessfully"
+git config --global user.name 
+git status
+git add .
+git commit -m "added successfully"
+git config --global user.email 
+git config --global user.name 
+git config --global --list
+git status
+git commit -m "Added successfully"
+git status
+git log --oneline
+rm BankExample1.java
+git rm BankExample1.java
+git status
+git restore --staged BankExample1.java
+git status
+git restore BankExample1.java
+git status
+history
+History
+git history
+git log
+history
+doskey /history
+git status
+git add .
+git status
+git commit "Added git commands"
+git commit -m "Added git commands"
+git status
+git remote add origin 
+git remote -v
+git push origin master
+git remote -v
+git remote -v
+git push origin master
+ cd..
+cd downloads
+git clone 
+git status
+ls
+
+cd Aniket
+cd Java Programs
+doskey /history
